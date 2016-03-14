@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# from: http://stackoverflow.com/questions/4130922/how-to-increment-datetime-by-custom-months-in-python-without-using-library
+
 import calendar
 
 from datetime import date
